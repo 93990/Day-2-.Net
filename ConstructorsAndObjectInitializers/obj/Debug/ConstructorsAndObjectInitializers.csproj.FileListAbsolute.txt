@@ -1,0 +1,8 @@
+D:\Trainings\Yash1\Day2\ConstructorsAndObjectInitializers\bin\Debug\ConstructorsAndObjectInitializers.exe.config
+D:\Trainings\Yash1\Day2\ConstructorsAndObjectInitializers\bin\Debug\ConstructorsAndObjectInitializers.exe
+D:\Trainings\Yash1\Day2\ConstructorsAndObjectInitializers\bin\Debug\ConstructorsAndObjectInitializers.pdb
+D:\Trainings\Yash1\Day2\ConstructorsAndObjectInitializers\obj\Debug\ConstructorsAndObjectInitializers.csproj.AssemblyReference.cache
+D:\Trainings\Yash1\Day2\ConstructorsAndObjectInitializers\obj\Debug\ConstructorsAndObjectInitializers.csproj.SuggestedBindingRedirects.cache
+D:\Trainings\Yash1\Day2\ConstructorsAndObjectInitializers\obj\Debug\ConstructorsAndObjectInitializers.csproj.CoreCompileInputs.cache
+D:\Trainings\Yash1\Day2\ConstructorsAndObjectInitializers\obj\Debug\ConstructorsAndObjectInitializers.exe
+D:\Trainings\Yash1\Day2\ConstructorsAndObjectInitializers\obj\Debug\ConstructorsAndObjectInitializers.pdb

@@ -1,0 +1,8 @@
+D:\Trainings\Yash1\Day2\Properties\bin\Debug\Properties.exe.config
+D:\Trainings\Yash1\Day2\Properties\bin\Debug\Properties.exe
+D:\Trainings\Yash1\Day2\Properties\bin\Debug\Properties.pdb
+D:\Trainings\Yash1\Day2\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\Trainings\Yash1\Day2\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+D:\Trainings\Yash1\Day2\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\Trainings\Yash1\Day2\Properties\obj\Debug\Properties.exe
+D:\Trainings\Yash1\Day2\Properties\obj\Debug\Properties.pdb
